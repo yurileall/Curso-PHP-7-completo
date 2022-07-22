@@ -16,7 +16,7 @@ console.log(!!{})
 console.log(!!Infinity)
 console.log(!!(isAtivo = true))
 
-console.log('os falsos....')
+console.log('os falsos...')
 console.log(!!0)
 console.log(!!'')
 console.log(!!null)
